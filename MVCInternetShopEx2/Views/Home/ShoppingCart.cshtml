@@ -1,0 +1,91 @@
+﻿@model MVCInternetShopEx2.GoodsList
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShoppingCart</title>
+    <link type="text/css" href="~/Content/HomeStyles/ShoppingCartStyles.css" rel="stylesheet" />
+</head>
+<body>
+    @using (Html.BeginForm("ShoppingCart", "Home", FormMethod.Post))
+    {
+        <div class="conteiner">
+            <div class="topHeader">
+                <div><img class="icon" src="~/Img/Icons/Phone_31105.png" width="15" height="15" />Phone: +(380)123-45-67-890</div>
+                <div><img class="icon" src="~/Img/Icons/E-mail_37290.png" width="15" height="15" />Email: email@@mail.com</div>
+                <div><img class="icon" src="~/Img/Icons/-location_86865.png" width="15" height="15" />Addres: 12345.addres</div>
+                @Html.ActionLink("Sign in", "Authorization", "Account", null, new { @class = ViewBag.showHideSignInLink })
+                <input type="submit" name="Action" value="Sign out" class="@ViewBag.showHideSignOutLink" />
+                <input type="submit" class="linkToCart" name="Action" value="Continue" />                   @*Продолжить Покупки*@
+            </div>
+            <div class="middleHeader">
+                <div class="cart">
+                    <img src="~/Img/Icons/shoppingcart_87696.png" width="50" height="40" />
+                    <div class="@ViewBag.cartBlockUnblock"><p>@Session["select"]</p></div>
+                </div>
+                <div class="logo">
+                    <img src="~/Img/Logo/logo.png" />
+                </div>
+            </div>
+            <div class="content">
+                <div class="cont">
+                    <div><h1 class="@ViewBag.selGoods">You have not selected any products yet</h1></div>
+                    @{
+                        double total = 0;
+                        for (int i = 0; i < Model.AllGoods.Count; i++)
+                        {
+                            string name = Model.Buttons[i].Name;
+                            string value = "";
+                            if (Model.Buttons[i].PressBtn) { value = "Delete"; }
+                            else { value = "Return"; }
+                            if (Model.Buttons[i].PressBtn)
+                            {
+                                <div class="goods">
+                                    <div class="conteinerImg">
+                                        <img src="@Model.AllGoods[i].Img1" width="90" height="100" />
+                                    </div>
+                                    <div class="conteinerInformarion">
+                                        @Model.AllGoods[i].Name<br />
+                                        <p class="price">@Model.AllGoods[i].Price$</p>
+                                        <p class="price">@Model.AllGoods[i].Count</p>
+                                    </div>
+                                    <div class="conteinerCount">
+                                        <p class="checkMark">If you want to give up the goods, remove the checkmark: </p>
+                                        <input class="btn" type="submit" name=@name value=@value />    @*Удаление товара из корзины*@
+                                    </div>
+                                </div>
+                                total += Model.AllGoods[i].Price * Model.AllGoods[i].Count;
+                            }
+                            @Html.HiddenFor(x => Model.AllGoods[i].Id)
+                            @Html.HiddenFor(x => Model.AllGoods[i].Name)
+                            @Html.HiddenFor(x => Model.AllGoods[i].Price)
+                            @Html.HiddenFor(x => Model.AllGoods[i].Count)
+                            @Html.HiddenFor(x => Model.AllGoods[i].Img1)
+                            @Html.HiddenFor(x => Model.AllGoods[i].GroupGoods)
+                            @Html.HiddenFor(x => x.Buttons[i].PressBtn, new { Value = Model.Buttons[i].PressBtn })
+                            @Html.HiddenFor(x => x.Buttons[i].Name)
+                        }
+                    }
+                    <div class="total">
+                        <div class="@ViewBag.displayTotal">
+                            <p class="items">Total price: </p>
+                            <hr />
+                            <p class="price"> @total $</p>
+                            <input class="btn" type="submit" name="Action" value="Buy" />               @*Оформление заказа*@
+                        </div>
+                    </div>
+                </div>
+            </div>
+           <div class="footer">
+               
+           </div>
+     </div>
+    }
+</body>
+</html>

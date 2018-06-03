@@ -1,0 +1,41 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>WelcomePage</title>
+    <link type="text/css" href="~/Content/AccountStyles/WelcomePageStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="conteiner"> 
+        <div class="topHeader">
+            <div><img class="icon" src="~/Img/Icons/Phone_31105.png" width="15" height="15" />Phone: +(380)123-45-67-890</div>
+            <div><img class="icon" src="~/Img/Icons/E-mail_37290.png" width="15" height="15" />Email: email@@mail.com</div>
+            <div><img class="icon" src="~/Img/Icons/-location_86865.png" width="15" height="15" />Addres: 12345.addres</div>
+           
+        </div>
+        <div class="middleHeader">
+            <div class="logo">
+                <img src="~/Img/Logo/logo.png" />
+            </div>
+        </div>
+        <div class="content">
+            <div id="main">            
+                <div class="edge top"></div>
+                <div class="edge left"></div>
+                <div class="corner top left"></div>
+                <div class="corner top right"></div>
+                <div class="corner bottom left"></div>
+                <div class="corner bottom right"></div>
+                <h1>Hello !!!</h1>
+                <p>Now you can go to the @Html.ActionLink("Authorization", "Authorization", "Account", null, new { @class = "myAccount" })</p>               
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{84E9B32B-4719-487D-BB66-D0525ABEEAE1}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MVCInternetShopEx2</RootNamespace>
+    <AssemblyName>MVCInternetShopEx2</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.AI.Agent.Intercept, Version=2.0.6.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.2.0.6\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.DependencyCollector, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.2.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.PerfCounterCollector, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.Web, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.2.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.WindowsServer, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.2.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.2.0\lib\net46\Microsoft.ApplicationInsights.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data, Version=6.10.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Soft\SoftForDB\LinqSql\DbLinq-0.19\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Deployment">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\AccountStyles\AuthorizationStyle.css" />
+    <Content Include="Content\AccountStyles\RegistrationStyle.css" />
+    <Content Include="Content\AccountStyles\WelcomePageStyle.css" />
+    <Content Include="Content\HomeStyles\PostViewStyles.css" />
+    <Content Include="Content\HomeStyles\ProductPageStyles.css" />
+    <Content Include="Content\HomeStyles\ShoppingCartStyles.css" />
+    <Content Include="Content\HomeStyles\StyleForIndexPage.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Img\Goods\Desktops\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC_img1.jpg" />
+    <Content Include="Img\Goods\Desktops\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC_img2.jpg" />
+    <Content Include="Img\Goods\Desktops\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC_img3.jpg" />
+    <Content Include="Img\Goods\Desktops\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC_img4.jpg" />
+    <Content Include="Img\Goods\Desktops\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC_img5.jpg" />
+    <Content Include="Img\Goods\Desktops\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC\CorsairCS-9000009-NAONEPROCompactGamingDesktopPC_img6.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC_img1.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC_img2.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC_img3.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC_img4.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC_img5.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC\CYBERPOWERPCGamerMasterGMA2600ADesktopGamingPC_img6.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC_img2.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC_img1.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC_img3.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC_img4.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC_img5.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC_img6.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC\CYBERPOWERPCGamerMasterGMA6400CPGGamingPC_img7.jpg" />
+    <Content Include="Img\Goods\Desktops\CyberpowerPCGamerUltra\CyberpowerPCGamerUltra_img1.jpg" />
+    <Content Include="Img\Goods\Desktops\CyberpowerPCGamerUltra\CyberpowerPCGamerUltra_img2.jpg" />
+    <Content Include="Img\Goods\Desktops\CyberpowerPCGamerUltra\CyberpowerPCGamerUltra_img3.jpg" />
+    <Content Include="Img\Goods\Desktops\CyberpowerPCGamerUltra\CyberpowerPCGamerUltra_img4.jpg" />
+    <Content Include="Img\Goods\Desktops\CyberpowerPCGamerUltra\CyberpowerPCGamerUltra_img5.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerXtreme\CYBERPOWERPCGamerXtreme_img1.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerXtreme\CYBERPOWERPCGamerXtreme_img2.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerXtreme\CYBERPOWERPCGamerXtreme_img3.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerXtreme\CYBERPOWERPCGamerXtreme_img4.jpg" />
+    <Content Include="Img\Goods\Desktops\CYBERPOWERPCGamerXtreme\CYBERPOWERPCGamerXtreme_img5.jpg" />
+    <Content Include="Img\Goods\Desktops\HPPavilionPowerGamingDesktop\HPPavilionPowerGaming_img2.jpg" />
+    <Content Include="Img\Goods\Desktops\HPPavilionPowerGamingDesktop\HPPavilionPowerGaming_img1.jpg" />
+    <Content Include="Img\Goods\Desktops\HPPavilionPowerGamingDesktop\HPPavilionPowerGaming_img3.jpg" />
+    <Content Include="Img\Goods\Desktops\HPPavilionPowerGamingDesktop\HPPavilionPowerGaming_img4.jpg" />
+    <Content Include="Img\Goods\Desktops\HPPavilionPowerGamingDesktop\HPPavilionPowerGaming_img5.jpg" />
+    <Content Include="Img\Goods\Desktops\HPPavilionPowerGamingDesktop\HPPavilionPowerGaming_img6.jpg" />
+    <Content Include="Img\Goods\Desktops\iBUYPOWERGamingPC\iBUYPOWERGamingPC_img1.jpg" />
+    <Content Include="Img\Goods\Desktops\iBUYPOWERGamingPC\iBUYPOWERGamingPC_img2.jpg" />
+    <Content Include="Img\Goods\Desktops\iBUYPOWERGamingPC\iBUYPOWERGamingPC_img3.jpg" />
+    <Content Include="Img\Goods\Desktops\iBUYPOWERGamingPC\iBUYPOWERGamingPC_img4.jpg" />
+    <Content Include="Img\Goods\Desktops\iBUYPOWERGamingPC\iBUYPOWERGamingPC_img5.jpg" />
+    <Content Include="Img\Goods\Desktops\iBUYPOWERGamingPC\iBUYPOWERGamingPC_img6.jpg" />
+    <Content Include="Img\Goods\Desktops\iBUYPOWERGamingPC\iBUYPOWERGamingPC_img7.jpg" />
+    <Content Include="Img\Goods\Desktops\iBUYPOWERGamingPC\iBUYPOWERGamingPC_img8.jpg" />
+    <Content Include="Img\Goods\Desktops\iBUYPOWERGamingPC\iBUYPOWERGamingPC_img9.jpg" />
+    <Content Include="Img\Goods\Desktops\OMENbyHPGamingDesktopComputer\OMENbyHPGamingDesktopComputer_img5.jpg" />
+    <Content Include="Img\Goods\Desktops\OMENbyHPGamingDesktopComputer\OMENbyHPGamingDesktopComputer_img2.jpg" />
+    <Content Include="Img\Goods\Desktops\OMENbyHPGamingDesktopComputer\OMENbyHPGamingDesktopComputer_img3.jpg" />
+    <Content Include="Img\Goods\Desktops\OMENbyHPGamingDesktopComputer\OMENbyHPGamingDesktopComputer_img4.jpg" />
+    <Content Include="Img\Goods\Desktops\OMENbyHPGamingDesktopComputer\OMENbyHPGamingDesktopComputer_img1.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechArchAngel\SkyTech ArchAngel_img1.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechArchAngel\SkyTech ArchAngel_img2.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechArchAngel\SkyTech ArchAngel_img3.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechArchAngel\SkyTech ArchAngel_img4.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechArchAngel\SkyTech ArchAngel_img5.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechArchAngel\SkyTech ArchAngel_img6.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechOmegaGamingComputerDesktopPC\SkyTechOmegaGamingComputerDesktopPC_img4.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechOmegaGamingComputerDesktopPC\SkyTechOmegaGamingComputerDesktopPC_img2.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechOmegaGamingComputerDesktopPC\SkyTechOmegaGamingComputerDesktopPC_img3.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechOmegaGamingComputerDesktopPC\SkyTechOmegaGamingComputerDesktopPC_img1.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechOmegaGamingComputerDesktopPC\SkyTechOmegaGamingComputerDesktopPC_img5.jpg" />
+    <Content Include="Img\Goods\Desktops\SkyTechOmegaGamingComputerDesktopPC\SkyTechOmegaGamingComputerDesktopPC_img6.jpg" />
+    <Content Include="Img\Goods\Desktops\ZOTACGAMINGMEK1GAMINGPC\ZOTACGAMINGMEK1GAMINGPC_img1.jpg" />
+    <Content Include="Img\Goods\Desktops\ZOTACGAMINGMEK1GAMINGPC\ZOTACGAMINGMEK1GAMINGPC_img2.jpg" />
+    <Content Include="Img\Goods\Desktops\ZOTACGAMINGMEK1GAMINGPC\ZOTACGAMINGMEK1GAMINGPC_img3.jpg" />
+    <Content Include="Img\Goods\Desktops\ZOTACGAMINGMEK1GAMINGPC\ZOTACGAMINGMEK1GAMINGPC_img4.jpg" />
+    <Content Include="Img\Goods\Desktops\ZOTACGAMINGMEK1GAMINGPC\ZOTACGAMINGMEK1GAMINGPC_img5.jpg" />
+    <Content Include="Img\Goods\Desktops\ZOTACGAMINGMEK1GAMINGPC\ZOTACGAMINGMEK1GAMINGPC_img6.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS Cerberus GeForce GTX 1050 Ti 4GB\ASUS Cerberus GeForce GTX 1050 Ti 4GB OC Edition GDDR5_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS Cerberus GeForce GTX 1050 Ti 4GB\ASUS Cerberus GeForce GTX 1050 Ti 4GB OC Edition GDDR5_img2.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS Cerberus GeForce GTX 1050 Ti 4GB\ASUS Cerberus GeForce GTX 1050 Ti 4GB OC Edition GDDR5_img3.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS Cerberus GeForce GTX 1050 Ti 4GB\ASUS Cerberus GeForce GTX 1050 Ti 4GB OC Edition GDDR5_img4.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS Cerberus GeForce GTX 1050 Ti 4GB\ASUS Cerberus GeForce GTX 1050 Ti 4GB OC Edition GDDR5_img5.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS GeForce GTX 1060 6GB Dual-fan\ASUS GeForce GTX 1060 6GB Dual-fan OC Edition VR Ready Dual HDMI_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS GeForce GTX 1060 6GB Dual-fan\ASUS GeForce GTX 1060 6GB Dual-fan OC Edition VR Ready Dual HDMI_img2.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS GeForce GTX 1060 6GB Dual-fan\ASUS GeForce GTX 1060 6GB Dual-fan OC Edition VR Ready Dual HDMI_img3.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS GeForce GTX 1060 6GB Dual-fan\ASUS GeForce GTX 1060 6GB Dual-fan OC Edition VR Ready Dual HDMI_img4.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS GeForce GTX 1060 6GB Dual-fan\ASUS GeForce GTX 1060 6GB Dual-fan OC Edition VR Ready Dual HDMI_img5.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS GeForce GTX 1060 6GB Dual-fan\ASUS GeForce GTX 1060 6GB Dual-fan OC Edition VR Ready Dual HDMI_img6.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS GeForce GTX 1060 6GB Dual-fan\ASUS GeForce GTX 1060 6GB Dual-fan OC Edition VR Ready Dual HDMI_img7.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS GeForce GTX 1060 6GB Dual-fan\ASUS GeForce GTX 1060 6GB Dual-fan OC Edition VR Ready Dual HDMI_img8.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS ROG Strix Radeon RX 570 O4G\ASUS ROG Strix Radeon RX 570 O4G Gaming OC Edition GDDR5_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS ROG Strix Radeon RX 570 O4G\ASUS ROG Strix Radeon RX 570 O4G Gaming OC Edition GDDR5_img2.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS ROG Strix Radeon RX 570 O4G\ASUS ROG Strix Radeon RX 570 O4G Gaming OC Edition GDDR5_img3.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS ROG Strix Radeon RX 570 O4G\ASUS ROG Strix Radeon RX 570 O4G Gaming OC Edition GDDR5_img4.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS ROG Strix Radeon RX 570 O4G\ASUS ROG Strix Radeon RX 570 O4G Gaming OC Edition GDDR5_img5.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\ASUS ROG Strix Radeon RX 570 O4G\ASUS ROG Strix Radeon RX 570 O4G Gaming OC Edition GDDR5_img6.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING_img2.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING_img3.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING_img4.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING_img5.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING\EVGA GeForce GTX 1080 Ti SC Black Edition GAMING_img6.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080\EVGA GeForce GTX 1080 SC GAMING ACX 3.0, 8GB GDDR5X_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080\EVGA GeForce GTX 1080 SC GAMING ACX 3.0, 8GB GDDR5X_img2.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080\EVGA GeForce GTX 1080 SC GAMING ACX 3.0, 8GB GDDR5X_img3.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080\EVGA GeForce GTX 1080 SC GAMING ACX 3.0, 8GB GDDR5X_img4.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080\EVGA GeForce GTX 1080 SC GAMING ACX 3.0, 8GB GDDR5X_img5.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\EVGA GeForce GTX 1080\EVGA GeForce GTX 1080 SC GAMING ACX 3.0, 8GB GDDR5X_img6.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeeForce1030\Gigabyte GV-N1030D4-2GL GeForce GT 1030 Low Profile D4 2G_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeeForce1030\Gigabyte GV-N1030D4-2GL GeForce GT 1030 Low Profile D4 2G_img2.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeeForce1030\Gigabyte GV-N1030D4-2GL GeForce GT 1030 Low Profile D4 2G_img3.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeeForce1030\Gigabyte GV-N1030D4-2GL GeForce GT 1030 Low Profile D4 2G_img4.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeForce GTX 1060 Windforce\Gigabyte GeForce GTX 1060 Windforce OC 3GB GDDR5 Graphics Card_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeForce GTX 1060 Windforce\Gigabyte GeForce GTX 1060 Windforce OC 3GB GDDR5 Graphics Card_img2.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeForce GTX 1060 Windforce\Gigabyte GeForce GTX 1060 Windforce OC 3GB GDDR5 Graphics Card_img3.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeForce GTX 1060 Windforce\Gigabyte GeForce GTX 1060 Windforce OC 3GB GDDR5 Graphics Card_img4.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeForce GTX 1060 Windforce\Gigabyte GeForce GTX 1060 Windforce OC 3GB GDDR5 Graphics Card_img5.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeForce GTX 1060 Windforce\Gigabyte GeForce GTX 1060 Windforce OC 3GB GDDR5 Graphics Card_img6.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeForce GTX 1080\Gigabyte GeForce GTX GV-N1080TTOC-8GD Video Graphics Cards_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeForce GTX 1080\Gigabyte GeForce GTX GV-N1080TTOC-8GD Video Graphics Cards_img2.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeForce GTX 1080\Gigabyte GeForce GTX GV-N1080TTOC-8GD Video Graphics Cards_img3.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeForce GTX 1080\Gigabyte GeForce GTX GV-N1080TTOC-8GD Video Graphics Cards_img4.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Gigabyte GeForce GTX 1080\Gigabyte GeForce GTX GV-N1080TTOC-8GD Video Graphics Cards_img5.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\MSI Gaming Radeon RX 580\MSI Gaming Radeon RX 580 256-bit 8GB GDRR5 DirectX 12_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\MSI Gaming Radeon RX 580\MSI Gaming Radeon RX 580 256-bit 8GB GDRR5 DirectX 12_img2.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\MSI Gaming Radeon RX 580\MSI Gaming Radeon RX 580 256-bit 8GB GDRR5 DirectX 12_img3.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\MSI Gaming Radeon RX 580\MSI Gaming Radeon RX 580 256-bit 8GB GDRR5 DirectX 12_img4.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\MSI Gaming Radeon RX 580\MSI Gaming Radeon RX 580 256-bit 8GB GDRR5 DirectX 12_img5.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire 112650120G Radeon NITRORX 580\Sapphire 112650120G RadeonNITRO RX 580 8GB GDDR5 DUALL_img3.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire 112650120G Radeon NITRORX 580\Sapphire 112650120G RadeonNITRO RX 580 8GB GDDR5 DUAL_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire 112650120G Radeon NITRORX 580\Sapphire 112650120G RadeonNITRO RX 580 8GB GDDR5 DUAL_img2.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire 112650120G Radeon NITRORX 580\Sapphire 112650120G RadeonNITRO RX 580 8GB GDDR5 DUAL_img4.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire 112650120G Radeon NITRORX 580\Sapphire 112650120G RadeonNITRO RX 580 8GB GDDR5 DUAL_img5.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire 112650120G Radeon NITRORX 580\Sapphire 112650120G RadeonNITRO RX 580 8GB GDDR5 DUAL_img6.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire 112650120G Radeon NITRORX 580\Sapphire 112650120G RadeonNITRO RX 580 8GB GDDR5 DUAL_img7.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire 112750340G Radeon NITRO RX VEGA 64 8GB\Sapphire 112750340G Radeon NITRO RX VEGA 64 8GB HBM2 DUAL HDMIDP %28UEFI%29 PCI-E Graphics Card_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire Radeon NITRO+ RX 580 8GB GDDR5\Sapphire Radeon NITRO+ RX 580 8GB GDDR5 DUAL_img1.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire Radeon NITRO+ RX 580 8GB GDDR5\Sapphire Radeon NITRO+ RX 580 8GB GDDR5 DUAL_img2.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire Radeon NITRO+ RX 580 8GB GDDR5\Sapphire Radeon NITRO+ RX 580 8GB GDDR5 DUAL_img3.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire Radeon NITRO+ RX 580 8GB GDDR5\Sapphire Radeon NITRO+ RX 580 8GB GDDR5 DUAL_img4.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire Radeon NITRO+ RX 580 8GB GDDR5\Sapphire Radeon NITRO+ RX 580 8GB GDDR5 DUAL_img5.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire Radeon NITRO+ RX 580 8GB GDDR5\Sapphire Radeon NITRO+ RX 580 8GB GDDR5 DUAL_img6.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire Radeon NITRO+ RX 580 8GB GDDR5\Sapphire Radeon NITRO+ RX 580 8GB GDDR5 DUAL_img7.jpg" />
+    <Content Include="Img\Goods\GraphicsCards\Sapphire Radeon NITRO+ RX 580 8GB GDDR5\Sapphire Radeon NITRO+ RX 580 8GB GDDR5 DUAL_img8.jpg" />
+    <Content Include="Img\Icons\-location_86865.png" />
+    <Content Include="Img\Icons\About_Us-80_icon-icons.com_57384.png" />
+    <Content Include="Img\Icons\businessregistration_signpen_negocio_inscripcio_2358.png" />
+    <Content Include="Img\Icons\calendarday_January_month_calendari_1584.png" />
+    <Content Include="Img\Icons\E-mail_37290.png" />
+    <Content Include="Img\Icons\email-logo.jpg" />
+    <Content Include="Img\Icons\Email_30017.png" />
+    <Content Include="Img\Icons\Gender_Neutral_User-80_icon-icons.com_57321.png" />
+    <Content Include="Img\Icons\import_thearrow_4274.png" />
+    <Content Include="Img\Icons\Login_37128.png" />
+    <Content Include="Img\Icons\passwordlock_contraseñ_9979.png" />
+    <Content Include="Img\Icons\Phone_31105.png" />
+    <Content Include="Img\Icons\shoppingcart_87696.png" />
+    <Content Include="Img\Keyboard_title.jpg" />
+    <Content Include="Img\hotdeal.png" />
+    <Content Include="Img\LinkImages\1058710_us_222_intel_c-tile.jpg" />
+    <Content Include="Img\LinkImages\1064810_us_pchardware_tile_500x500.jpg" />
+    <Content Include="Img\LinkImages\Brand\GamingPC_BrandFirm_Corsair.png" />
+    <Content Include="Img\LinkImages\Brand\GamingPC_BrandFirm_HyperX.png" />
+    <Content Include="Img\LinkImages\Brand\GamingPC_BrandFirm_msi.png" />
+    <Content Include="Img\LinkImages\Brand\GamingPC_BrandFirm_Predator.png" />
+    <Content Include="Img\LinkImages\Brand\GamingPC_BrandFirm_Razer.png" />
+    <Content Include="Img\LinkImages\Brand\GamingPC_BrandFirm_RepublicOfGamers.png" />
+    <Content Include="Img\LinkImages\GamingPC_Ctile_Desktops.jpg" />
+    <Content Include="Img\LinkImages\GamingPC_Ctile_GraphicsCards.jpg" />
+    <Content Include="Img\LinkImages\GamingPC_Ctile_Laptops.jpg" />
+    <Content Include="Img\LinkImages\GamingPC_Ctile_Monitors.jpg" />
+    <Content Include="Img\LinkImages\GamingPC_Ctile_Networking.jpg" />
+    <Content Include="Img\LinkImages\GamingPC_Ctile_VirtualReality.jpg" />
+    <Content Include="Img\LinkImages\GamingPC_Title_ShopByBrands_desktop.png" />
+    <Content Include="Img\Logo\logo.png" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AuthorizationUser.cs" />
+    <Compile Include="Models\Button.cs" />
+    <Compile Include="Models\DAO.cs" />
+    <Compile Include="Models\DAOImplements.cs" />
+    <Compile Include="Models\Goods.cs" />
+    <Compile Include="Models\GoodsList.cs" />
+    <Compile Include="Models\Properties.cs" />
+    <Compile Include="Models\RegistrUser.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\web.config" />
+    <Content Include="packages.config" />
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Account\Registration.cshtml" />
+    <Content Include="Views\Account\Authorization.cshtml" />
+    <Content Include="Views\Home\Desktops.cshtml" />
+    <Content Include="Views\Account\WelcomePage.cshtml" />
+    <Content Include="Views\Home\ShoppingCart.cshtml" />
+    <Content Include="Views\Home\GraphicsCards.cshtml" />
+    <Content Include="Views\Home\PostView.cshtml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52241</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:52241/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом компьютере. Используйте восстановление пакетов NuGet, чтобы скачать их.  Дополнительную информацию см. по адресу: http://go.microsoft.com/fwlink/?LinkID=322105. Отсутствует следующий файл: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

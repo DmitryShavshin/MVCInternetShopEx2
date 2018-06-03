@@ -1,0 +1,366 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(174, 168, 168, 0.60);
+}
+
+.conteiner {
+    margin: 0 auto;
+    padding: 0;
+    width: 1300px;
+    border-radius: 0 0 15px 15px;
+    box-shadow: 0 0 100px rgba(209, 8, 187, 0.30);
+}
+
+.topHeader {
+    background-color: #1E1F29;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-family: Verdana;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 15px;
+    height: 20px;
+}
+
+.middleHeader {
+    background-color: #15161D;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-family: Verdana;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.topHeader div {
+    margin: 0 10px 10px 0;
+    float: left;
+}
+
+.myAccount {
+    float: right;
+}
+
+.header {
+    margin: 0 auto;
+    padding: 10px;
+    height: 70px;
+    font-size: 60px;
+    background-color: rgba(209, 0, 36, 0.9);
+    color: #fff;
+    border-radius: 15px 15px 0 0;
+    margin-top: 50px;
+}
+
+.hotDeal {
+    margin: 0 auto;
+    padding: 0;
+    background-color: #fff;
+}
+
+.navBar {
+    margin: 0;
+    padding: 10px;
+    height: 900px;
+    width: 200px;
+    float: left;
+    background-color: #fff;
+    color: #3f0269;
+}
+
+.content {
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #fff;
+    color: #3f0269;
+    float: right;
+}
+
+.footer {
+    margin: 0 auto;
+    padding: 0;
+    height: 100px;
+    background-color: rgba(116, 7, 160, 0.56);
+    border-radius: 0 0 15px 15px;
+}
+
+.daysLeft {
+    margin: 30px 0 0 465px;
+    width: 90px;
+    height: 90px;
+    float: left;
+    position: absolute;
+    background-color: rgba(209, 0, 36, 0.9);
+    color: #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(209, 8, 187, 0.30);
+    text-align: center;
+}
+
+.hoursLeft {
+    margin: 30px 0 0 565px;
+    width: 90px;
+    height: 90px;
+    float: left;
+    position: absolute;
+    background-color: rgba(209, 0, 36, 0.9);
+    box-shadow: 0 0 10px rgba(209, 8, 187, 0.30);
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.minsLeft {
+    margin: 30px 0 0 665px;
+    width: 90px;
+    height: 90px;
+    float: left;
+    position: absolute;
+    background-color: rgba(209, 0, 36, 0.9);
+    box-shadow: 0 0 10px rgba(209, 8, 187, 0.30);
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.secsLeft {
+    margin: 30px 0 0 765px;
+    width: 90px;
+    height: 90px;
+    float: left;
+    position: absolute;
+    background-color: rgba(209, 0, 36, 0.9);
+    box-shadow: 0 0 10px rgba(209, 8, 187, 0.30);
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.hotDealTextUppercase {
+    margin: 130px 0 0 420px;
+    position: absolute;
+    padding: 0;
+}
+
+h2 {
+    font-size: 35px;
+    text-transform: uppercase;
+    margin: 30px 0 10px 0;
+    padding: 0;
+    text-align: center;
+}
+
+.hotDealTextUppercase p {
+    text-transform: uppercase;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.digits {
+    padding: 15px 0 0 0;
+    margin: 0;
+    font-size: 25px;
+    font-family: Verdana;
+}
+
+.letters {
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+    font-family: Verdana;
+}
+
+.hotDealBtn {
+    color: #fff;
+    background-color: rgba(209, 0, 36, 0.9);
+    box-shadow: 0 0 10px rgba(209, 8, 187, 0.30);
+    height: 30px;
+    width: 170px;
+    border-radius: 25px;
+    position: absolute;
+    margin: 280px 0 0 580px;
+    padding: 15px 0 0 3px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Verdana;
+    cursor: pointer;
+}
+
+    .hotDealBtn:hover, .hotDealBtn:active {
+        background-color: #fff;
+        color: rgba(209, 0, 36, 0.9);
+    }
+
+.titleimg {
+    box-shadow: 0 0 10px rgba(209, 8, 187, 0.30);
+    margin: 10px 0 10px 10px;
+    float: left;
+    background-color: #fff;
+}
+
+.myAccount {
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-family: Verdana;
+    margin: 0 10px 10px 0;
+    text-decoration: none;
+}
+
+    .myAccount:hover, .myAccount:active {
+        color: rgba(209, 0, 36, 0.9);
+    }
+
+.icon {
+    float: left;
+    margin-left: 3px;
+    margin-right: 2px;
+}
+
+.logo {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.cart {
+    float: right;
+    position: absolute;
+    padding: 20px 20px 0 0;
+    margin: 0 0 0 1200px;
+}
+
+.cartCount {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgba(209, 0, 36, 0.9);
+    box-shadow: 0 0 10px rgba(209, 8, 187, 0.30);
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-family: Verdana;
+    text-align: center;
+    margin: -60px 0 0 40px;
+    position: absolute;
+}
+
+    .cartCount p {
+        margin: 0 auto;
+        padding-top: 4px;
+    }
+
+.brand {
+    margin-left: 170px;
+}
+
+.brandImg {
+    margin: 30px 0 0 10px;
+    padding: 0;
+    float: left;
+    box-shadow: 0 0 10px rgba(209, 8, 187, 0.30);
+}
+
+.inform {
+    float: right;
+}
+
+.titleLink {
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Verdana;
+    margin: 15px 0 15px 10px;
+    text-decoration: none;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    position: inherit;
+}
+
+.titleLink:hover, .titleLink:active {
+    color: rgba(209, 0, 36, 0.9);
+    cursor: pointer;
+}
+
+.content div p {
+    margin-top: 10px;
+}
+
+.titleimg:hover {
+    transform: scale(1.1);
+}
+
+.userShow {
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-family: Verdana;
+    display: block;
+    float: right;
+}
+
+.hide {
+    display: none;
+}
+
+.cartCount {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgba(209, 0, 36, 0.9);
+    box-shadow: 0 0 10px rgba(209, 8, 187, 0.30);
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-family: Verdana;
+    text-align: center;
+    margin: -60px 0 0 40px;
+    position: absolute;
+    display: block;
+}
+
+.cartCountHide {
+    display: none;
+}
+
+.cartCount p {
+    margin: 0 auto;
+    padding-top: 4px;
+}
+
+.referenceConteiner {
+    float: left;
+    position: inherit;
+    margin-left: 100px;
+}
+
+.link {
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-family: Verdana;
+    margin: -1px 10px 10px 0;
+    text-decoration: none;
+    border: none;
+    background-color: rgba(21, 22, 29, 0.00);
+    float: right;
+    font-weight: bold;
+}
+
+.link:hover, .link:active {
+    color: rgba(209, 0, 36, 0.9);
+}
+
+.footer {
+    background-color: #1E1F29;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-family: Verdana;
+    height: 60px;
+    margin: 0 auto;
+    position: relative;
+    width: 1300px;
+    float: right;
+    margin-bottom: 20px;
+    border-radius: 0 0 15px 15px;
+}

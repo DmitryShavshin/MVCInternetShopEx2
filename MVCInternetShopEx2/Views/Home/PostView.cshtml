@@ -1,0 +1,78 @@
+﻿@model MVCInternetShopEx2.GoodsList
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PostView</title>
+    <link type="text/css" href="~/Content/HomeStyles/PostViewStyles.css" rel="stylesheet" />
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        <div class="conteiner">
+            <div class="topHeader">
+                <div><img class="icon" src="~/Img/Icons/Phone_31105.png" width="15" height="15" />Phone: +(380)123-45-67-890</div>
+                <div><img class="icon" src="~/Img/Icons/E-mail_37290.png" width="15" height="15" />Email: email@@mail.com</div>
+                <div><img class="icon" src="~/Img/Icons/-location_86865.png" width="15" height="15" />Addres: 12345.addres</div>
+                @Html.ActionLink("Registration", "Registration", "Account", null, new { @class = "myAccount" })
+            </div>
+            <div class="middleHeader">
+                <div class="cart">
+                    <img src="~/Img/Icons/shoppingcart_87696.png" width="50" height="40" />
+                    <div class="@ViewBag.cartBlockUnblock"><p>@Session["select"]</p></div>
+                </div>
+                <div class="logo">
+                    <img src="~/Img/Logo/logo.png" />
+                </div>
+            </div>
+            @{
+                    double total = 0;
+            <div class="content">
+                <h1>Thank you for your choice</h1>
+                <div class="goods">
+                    <p>Your order:</p>
+                    <hr />
+                    @for (int i = 0; i < Model.AllGoods.Count; i++)
+                    {
+                        if (Model.Buttons[i].PressBtn)
+                        {
+                            total += Model.AllGoods[i].Price * Model.AllGoods[i].Count;
+                            @Model.AllGoods[i].Name<br />
+                            <p>Price</p>
+                            <p class="price">@Model.AllGoods[i].Price$</p>
+                            <p>Count</p>
+                            <p class="price">@Model.AllGoods[i].Count</p>
+                            <hr />
+                        }
+                        @Html.HiddenFor(x => Model.AllGoods[i].Id)
+                        @Html.HiddenFor(x => Model.AllGoods[i].Name)
+                        @Html.HiddenFor(x => Model.AllGoods[i].Price)
+                        @Html.HiddenFor(x => Model.AllGoods[i].Count)
+                        @Html.HiddenFor(x => Model.AllGoods[i].Img1)
+                        @Html.HiddenFor(x => x.Buttons[i].PressBtn, new { Value = Model.Buttons[i].PressBtn })
+                        @Html.HiddenFor(x => x.Buttons[i].Name)
+                    }
+                </div>
+                <div class="total">
+                    <div class="totalPrice">
+                        <p class="items">Total price: </p>
+                        <hr />
+                        <p class="price"> @total $</p>
+                    </div>
+                </div>
+            </div>
+               
+            }
+            <div class="footer">
+               
+            </div>
+        </div>
+    } 
+</body>
+</html>

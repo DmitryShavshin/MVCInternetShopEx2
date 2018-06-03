@@ -1,0 +1,51 @@
+﻿@model MVCInternetShopEx2.AuthorizationUser
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Authorization</title>
+    <link type="text/css" href="~/Content/AccountStyles/AuthorizationStyle.css" rel="stylesheet" />
+</head>
+<body>
+@using (Html.BeginForm())
+{
+    <div class="conteiner">
+        <div class="topHeader">
+            <div><img class="icon" src="~/Img/Icons/Phone_31105.png" width="15" height="15" />Phone: +(380)123-45-67-890</div>
+            <div><img class="icon" src="~/Img/Icons/E-mail_37290.png" width="15" height="15" />Email: email@@mail.com</div>
+            <div><img class="icon" src="~/Img/Icons/-location_86865.png" width="15" height="15" />Addres: 12345.addres</div>
+            @Html.ActionLink("Registration", "Registration", "Account", null, new { @class = "myAccount" })
+        </div>
+        <div class="middleHeader">
+            <div class="logo">
+                <img src="~/Img/Logo/logo.png" />
+            </div>
+        </div>
+        <div class="content">
+            <div class="leftSide">
+                <p class="titleText">Please enter your login:</p>
+                <div class="textBoxConteiner"><img class="icon" src="~/Img/Icons/Login_37128.png" width="30" height="30" />@Html.TextBoxFor(u => u.Login, new { @class = "textBox" })</div>
+                <p class="titleText">Please enter your password: </p>
+                <div class="textBoxConteiner"><img class="icon" src="~/Img/Icons/passwordlock_contraseñ_9979.png" width="30" height="30" />@Html.PasswordFor(u => u.Password, new { @class = "textBox" })</div>
+                <input class="btn" type="submit" value="Authorization" />
+            </div>          
+            <div class="rightSide @ViewBag.validation">
+                @Html.ValidationSummary(false, "", new { @class = "validationSummary" })
+            </div>
+            <div class="rightSide @ViewBag.validationLogin">
+                <div class="validationSummary">
+                    <p class="loginError">@ViewBag.ErrorMassage</p>
+                </div>
+            </div>      
+        </div> 
+        <div class="footer"></div>
+    </div>
+}
+</body>
+</html>

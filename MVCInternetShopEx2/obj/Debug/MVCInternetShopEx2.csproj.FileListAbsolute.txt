@@ -1,0 +1,561 @@
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\ApplicationInsights.config
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\csc.exe
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Collections.Immutable.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\vbc.exe
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe.config
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll.config
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.pdb
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.Web.Infrastructure.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.xml
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Razor.resources.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.resources.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Razor.resources.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Helpers.resources.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Mvc.resources.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csprojResolveAssemblyReference.cache
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.dll
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.pdb
+Z:\Progr\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\ApplicationInsights.config
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\csc.exe
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\vbc.exe
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll.config
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.pdb
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.xml
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Razor.resources.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.resources.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Helpers.resources.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Mvc.resources.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csprojResolveAssemblyReference.cache
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.dll
+D:\MVC_11.04.18\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.pdb
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\ApplicationInsights.config
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\csc.exe
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Collections.Immutable.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Reflection.Metadata.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\vbc.exe
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe.config
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll.config
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.pdb
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.Web.Infrastructure.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.xml
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Razor.resources.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.resources.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Helpers.resources.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Mvc.resources.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csprojResolveAssemblyReference.cache
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.dll
+D:\DimaWorkSpace\Window\Новая папка (3)\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.pdb
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ApplicationInsights.config
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\csc.exe
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Collections.Immutable.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\vbc.exe
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe.config
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll.config
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.pdb
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.Web.Infrastructure.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.xml
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Razor.resources.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.resources.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Razor.resources.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Helpers.resources.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Mvc.resources.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csprojResolveAssemblyReference.cache
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.dll
+Z:\Progr\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.pdb
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ApplicationInsights.config
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\csc.exe
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Collections.Immutable.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Reflection.Metadata.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\vbc.exe
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe.config
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll.config
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.pdb
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.Web.Infrastructure.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.xml
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Razor.resources.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.resources.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Razor.resources.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Helpers.resources.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Mvc.resources.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csprojResolveAssemblyReference.cache
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.dll
+F:\Новая папка (4)\DimaWorkSpace\Web\BackAnd\MVC\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.pdb
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\ApplicationInsights.config
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\csc.exe
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Collections.Immutable.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\vbc.exe
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe.config
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll.config
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.pdb
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.Web.Infrastructure.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Razor.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Razor.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Helpers.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Mvc.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csprojResolveAssemblyReference.cache
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.pdb
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\ApplicationInsights.config
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\csc.exe
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Collections.Immutable.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\vbc.exe
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe.config
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll.config
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.pdb
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.Web.Infrastructure.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Razor.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Razor.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Helpers.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Mvc.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csprojResolveAssemblyReference.cache
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.pdb
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ApplicationInsights.config
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\csc.exe
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Collections.Immutable.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\vbc.exe
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe.config
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll.config
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.pdb
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.Web.Infrastructure.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Web.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.WindowsServer.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.ApplicationInsights.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.xml
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Razor.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Razor.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Helpers.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Mvc.resources.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csprojResolveAssemblyReference.cache
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.dll
+Z:\Progr\Web\BackAnd\MVC\ex2\ex3\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.pdb
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ApplicationInsights.config
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\csc.exe
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Collections.Immutable.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Reflection.Metadata.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\vbc.exe
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe.config
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll.config
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.pdb
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.Web.Infrastructure.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.xml
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.xml
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.xml
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.xml
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.xml
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.xml
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.xml
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Razor.resources.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.resources.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Helpers.resources.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Mvc.resources.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csprojResolveAssemblyReference.cache
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.dll
+D:\DimaWorkSpace\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.pdb
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ApplicationInsights.config
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\csc.exe
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Collections.Immutable.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\vbc.exe
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe.config
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll.config
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.pdb
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.Web.Infrastructure.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.xml
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.xml
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.xml
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.xml
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.xml
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.xml
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.xml
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Razor.resources.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.resources.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Razor.resources.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Helpers.resources.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Mvc.resources.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.dll
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.pdb
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csprojAssemblyReference.cache
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csproj.CoreCompileInputs.cache
+Z:\Progr\Web\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csproj.CopyComplete
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ApplicationInsights.config
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\csc.exe
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Collections.Immutable.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\vbc.exe
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\roslyn\VBCSCompiler.exe.config
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll.config
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MVCInternetShopEx2.pdb
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.Web.Infrastructure.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\MySql.Data.xml
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Razor.xml
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.xml
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Deployment.xml
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Webpages.Razor.xml
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Helpers.xml
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\System.Web.Mvc.xml
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Razor.resources.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.resources.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Webpages.Razor.resources.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Helpers.resources.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\bin\ru\System.Web.Mvc.resources.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csprojAssemblyReference.cache
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csproj.CoreCompileInputs.cache
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.csproj.CopyComplete
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.dll
+Z:\Progr\Web\BackAnd\MVC\WithoutSession\MVCInternetShopEx2\MVCInternetShopEx2\obj\Debug\MVCInternetShopEx2.pdb
